@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**henrikac/henrikac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Henrik and I'm a software developer.
+I have a passion for making software and currently focused on learning how to make beautiful and easy-to-use iOS apps.
+When I have time for it I also enjoy contributing to open source software.
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Swift
+- Go
+
+... and of course the good old ones: HTML, CSS and JavaScript.
