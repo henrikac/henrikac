@@ -1,13 +1,17 @@
 # Hi there 👋
 
-My name is Henrik and I'm a software developer.
-I have a passion for making software and currently focused on learning how to make beautiful and easy-to-use iOS apps.
-When I have time for it I also enjoy contributing to open source software.
+I'm Henrik — a software developer who loves building clean, small and focused tools.  
+Lately I've been spending most of my spare time working with **Crystal** and contributing to the ecosystem through open-source shards.
+
+I enjoy exploring language design, API ergonomics and building things that feel simple, predictable and a joy to use.
 
 ### Languages
 
-- PHP
-- Swift
-- Go
+- Crystal  
+- Swift  
+- PHP  
+- Go  
 
-... and of course the good old ones: HTML, CSS and JavaScript.
+…and of course the classics: HTML, CSS, JavaScript.
+
+If you're into Crystal, feel free to check out some of my open-source work ✨
