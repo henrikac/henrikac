@@ -45,9 +45,10 @@ I like building things that are simple enough to understand, stable enough to re
 | --- | --- |
 | Backend | PHP, Symfony, REST APIs, integrations |
 | Apple platforms | Swift, iOS, watchOS, widgets |
-| Automation | Python, scripts, workflow tooling |
+| Automation | Python, Go, scripts, workflow tooling |
 | Frontend | HTML, CSS, JavaScript |
-| Exploring | AI/MCP, Go, Crystal |
+| Other languages | Crystal, C# |
+| Exploring | AI/MCP |
 
 ## Current Direction
 
